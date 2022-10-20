@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swaroop717
+- 👋 Hi, I’m @Swaroop
 - 👀 I’m interested in bioinformatics, epigenetics, molecular medicine and cancer research
 - 🌱 I’m currently learning R and Python
 - 📫 You can reach me on chittoor.1916247@studenti.uniroma1.it or on swaroopc9017@gmail.com
