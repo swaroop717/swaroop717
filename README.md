@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @Swaroop
-- 👀 I’m interested in bioinformatics, epigenetics, molecular medicine and cancer research
-- 📫 You can reach me on chittoor.1916247@studenti.uniroma1.it or on swaroopc9017@gmail.com
+- Hi, I’m @Swaroop
+- You can reach me on chittoor.1916247@studenti.uniroma1.it or on swaroopc9017@gmail.com
